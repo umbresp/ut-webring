@@ -15,3 +15,7 @@ Adding yourself to `sites.json`: Create a pull request.
 		"link": "https://umbresp.cat"
 }
 ```
+
+`url` is used to index your site. The link resolver will resolve your location in the ring based on whether the referer contains the url. `link` is the link that the resolver resolves to.
+
+TODO: Listings page
