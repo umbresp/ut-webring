@@ -1,0 +1,14 @@
+{
+    "webring": [
+        {
+        		"name": "Sasha Huang",
+        		"url": "umbresp.cat",
+        		"link": "https://umbresp.cat"
+        },
+        {
+        		"name": "Elie Soloveichik",
+        		"url": "razboy.dev",
+        		"link": "https://razboy.dev"
+        }
+    ]
+}
