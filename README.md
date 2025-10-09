@@ -1,6 +1,6 @@
 # UT Webring
 
-Linking:
+Linking: Add these links to your site somewhere.
 ```html
 <a href="https://api.jolteon.me/webring/prevlink">← prev </a>
 <a href="https://api.jolteon.me/webring/randomlink"> random </a>
