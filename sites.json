@@ -1,14 +1,18 @@
 {
     "webring": [
         {
-        		"name": "Sasha Huang",
+        		"name": "Sasha 🐈",
         		"url": "umbresp.cat",
-        		"link": "https://umbresp.cat"
+        		"link": "https://umbresp.cat",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "88x31": "https://www.umbresp.cat/badges/88x31.gif"
         },
         {
         		"name": "Razboy20",
         		"url": "razboy.dev",
-        		"link": "https://razboy.dev"
+        		"link": "https://razboy.dev",
+                "description": "",
+                "88x31": null
         }
     ]
 }
