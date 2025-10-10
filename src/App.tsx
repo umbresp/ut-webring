@@ -43,6 +43,9 @@ function App() {
           ))}
         </tbody>
       </table>
+      <div className="footer">
+        <a href="https://github.com/umbresp/ut-webring" target="_blank">GitHub Repository</a> | <a href="https://en.wikipedia.org/wiki/Webring" target="_blank">What's a webring?</a>
+      </div>
     </>
   )
 }

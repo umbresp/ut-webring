@@ -37,16 +37,9 @@ h1 {
   font-size: 3.5em;
   line-height: 1.1;
   color: #BF5700;
-  display: inline-block;
+  text-align: center;
 }
 
-/* Page container to constrain width and add padding */
-.page {
-  width: min(1100px, calc(100% - 32px));
-  padding: 28px;
-}
-
-/* Table styling */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -116,6 +109,12 @@ thead th:nth-child(4),
 tbody td:nth-child(4) {
   max-width: 120px;
   width: 120px;
+}
+
+.footer {
+  margin-top: 32px;
+  color: #BCC5BD;
+  text-align: center;
 }
 
 @media (max-width: 720px) {

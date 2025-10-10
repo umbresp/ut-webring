@@ -10,12 +10,15 @@ Linking: Add these links to your site somewhere.
 Adding yourself to `sites.json`: Create a pull request.
 ```json
 {
-		"name": "Sasha Huang",
-		"url": "umbresp.cat",
-		"link": "https://umbresp.cat"
+    "name": "Sasha 🐈",
+    "url": "umbresp.cat",
+    "link": "https://umbresp.cat",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "88x31": "https://www.umbresp.cat/badges/88x31.gif"
 }
 ```
 
-`url` is used to index your site. The link resolver will resolve your location in the ring based on whether the referer contains the url. `link` is the link that the resolver resolves to.
+`url` is used to index your site. The link resolver will resolve your location in the ring based on whether the referer contains the url. `link` is the link that the resolver resolves to. `88x31` is an optional field
+if you have an 88x31px logo for your site.
 
-TODO: Listings page
+Listings available [here](https://webring.jolteon.me)
