@@ -34,6 +34,13 @@
 			"link": "https://normalexisting.neocities.org",
 			"description": "Normal's Existential Embassy",
 			"88x31": null
+		},
+		{
+			"name": "ppeb",
+			"url": "ppeb.me",
+			"link": "https://ppeb.me",
+			"description": "peber",
+			"88x31": "https://ppeb.me/catticon.png"
 		}
 	]
 }
