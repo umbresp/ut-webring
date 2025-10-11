@@ -13,6 +13,14 @@
         		"link": "https://razboy.dev",
                 "description": "",
                 "88x31": null
+        },
+        {
+        		"name": "Goppert",
+        		"url": "mi.gopp.dev",
+        		"link": "https://mi.gopp.dev",
+                "description": "Welcome to the fishbowl.",
+                "88x31": null
         }
+
     ]
 }
