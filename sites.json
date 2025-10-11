@@ -1,33 +1,32 @@
 {
-    "webring": [
-        {
-        		"name": "Sasha 🐈",
-        		"url": "umbresp.cat",
-        		"link": "https://umbresp.cat",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "88x31": "https://www.umbresp.cat/badges/88x31.gif"
-        },
-        {
-        		"name": "Razboy20",
-        		"url": "razboy.dev",
-        		"link": "https://razboy.dev",
-                "description": "",
-                "88x31": null
-        },
-        {
-        		"name": "Goppert",
-        		"url": "mi.gopp.dev",
-        		"link": "https://mi.gopp.dev",
-                "description": "Welcome to the fishbowl.",
-                "88x31": null
-        },
-        {
-                "name": "Stuckin",
-                "url": "stuckin414141.github.io",
-                "link": "https://stuckin414141.github.io",
-                "description": "mreow",
-                "88x31": null
-        }
-
-    ]
+	"webring": [
+		{
+			"name": "Sasha 🐈",
+			"url": "umbresp.cat",
+			"link": "https://umbresp.cat",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"88x31": "https://www.umbresp.cat/badges/88x31.gif"
+		},
+		{
+			"name": "Razboy20",
+			"url": "razboy.dev",
+			"link": "https://razboy.dev",
+			"description": "",
+			"88x31": null
+		},
+		{
+			"name": "Goppert",
+			"url": "mi.gopp.dev",
+			"link": "https://mi.gopp.dev",
+			"description": "Welcome to the fishbowl.",
+			"88x31": null
+		},
+		{
+			"name": "Stuckin",
+			"url": "stuckin414141.github.io",
+			"link": "https://stuckin414141.github.io",
+			"description": "mreow",
+			"88x31": null
+		}
+	]
 }
