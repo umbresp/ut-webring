@@ -41,6 +41,13 @@
 			"link": "https://ppeb.me",
 			"description": "peber",
 			"88x31": "https://ppeb.me/catticon.png"
+		},
+		{
+  	  		"name": "s-sannidhi",
+    		"url": "s-sannidhi.vercel.app",
+    		"link": "https://s-sannidhi.vercel.app",
+    		"description": "fried",
+			"88x31": "https://s-sannidhi.github.io/DigitalPortfolio/icon.png"
 		}
 	]
 }
