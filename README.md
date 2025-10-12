@@ -1,8 +1,12 @@
 # UT Webring
 
+A webring is a collection of websites linked together in a circular structure, where each site links to the next and previous sites in the ring. It's a way to discover new sites and connect communities on the web.
+
 View the current webring [here](https://webring.jolteon.me)
 
-Linking: Add these links to your site somewhere.
+## Joining the Webring
+
+Add these links to your site somewhere.
 ```html
 <a href="https://api.jolteon.me/webring/prevlink">← prev </a>
 <a href="https://api.jolteon.me/webring/nextlink"> next →</a>
@@ -17,13 +21,17 @@ The API uses the Referer of your request to determine your place in the ring. If
 
 e.g. [https://api.jolteon.me/webring/nextlink?host=umbresp.cat](https://api.jolteon.me/webring/nextlink?host=umbresp.cat)
 
+### Additional Links
+
 You can also link to a random site, or to the webring listing page:
 ```html
 <a href="https://api.jolteon.me/webring/randomlink"> random </a>
 <a href="https://webring.jolteon.me"> UT Webring </a>
 ```
 
-Adding yourself to `sites.json`: Create a pull request.
+## Adding Your Site
+
+To add yourself to `sites.json`, create a pull request.
 ```json
 {
     "name": "Sasha 🐈",
