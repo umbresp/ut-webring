@@ -1,53 +1,53 @@
 {
-	"webring": [
-		{
-			"name": "Sasha 🐈",
-			"url": "umbresp.cat",
-			"link": "https://umbresp.cat",
-			"description": "meow",
-			"88x31": "https://www.umbresp.cat/badges/88x31.gif"
-		},
-		{
-			"name": "Razboy20",
-			"url": "razboy.dev",
-			"link": "https://razboy.dev",
-			"description": "",
-			"88x31": null
-		},
-		{
-			"name": "Goppert",
-			"url": "mi.gopp.dev",
-			"link": "https://mi.gopp.dev",
-			"description": "Welcome to the fishbowl.",
-			"88x31": null
-		},
-		{
-			"name": "Stuckin",
-			"url": "stuckin414141.github.io",
-			"link": "https://stuckin414141.github.io",
-			"description": "mreow",
-			"88x31": null
-		},
-		{
-			"name": "NormalExisting",
-			"url": "normalexisting.neocities.org",
-			"link": "https://normalexisting.neocities.org",
-			"description": "Normal's Existential Embassy",
-			"88x31": null
-		},
-		{
-			"name": "ppeb",
-			"url": "ppeb.me",
-			"link": "https://ppeb.me",
-			"description": "peber",
-			"88x31": "https://ppeb.me/catticon.png"
-		},
-		{
-  	  		"name": "s-sannidhi",
-    		"url": "s-sannidhi.vercel.app",
-    		"link": "https://s-sannidhi.vercel.app",
-    		"description": "fried",
-			"88x31": "https://s-sannidhi.github.io/DigitalPortfolio/icon.png"
-		}
-	]
+  "webring": [
+    {
+      "name": "Sasha 🐈",
+      "url": "umbresp.cat",
+      "link": "https://umbresp.cat",
+      "description": "meow",
+      "88x31": "https://www.umbresp.cat/badges/88x31.gif"
+    },
+    {
+      "name": "Razboy20",
+      "url": "razboy.dev",
+      "link": "https://razboy.dev",
+      "description": "",
+      "88x31": null
+    },
+    {
+      "name": "Goppert",
+      "url": "mi.gopp.dev",
+      "link": "https://mi.gopp.dev",
+      "description": "Welcome to the fishbowl.",
+      "88x31": null
+    },
+    {
+      "name": "Stuckin",
+      "url": "stuckin414141.github.io",
+      "link": "https://stuckin414141.github.io",
+      "description": "mreow",
+      "88x31": null
+    },
+    {
+      "name": "NormalExisting",
+      "url": "normalexisting.neocities.org",
+      "link": "https://normalexisting.neocities.org",
+      "description": "Normal's Existential Embassy",
+      "88x31": null
+    },
+    {
+      "name": "ppeb",
+      "url": "ppeb.me",
+      "link": "https://ppeb.me",
+      "description": "peber",
+      "88x31": "https://ppeb.me/catticon.png"
+    },
+    {
+      "name": "s-sannidhi",
+      "url": "s-sannidhi.vercel.app",
+      "link": "https://s-sannidhi.vercel.app",
+      "description": "fried",
+      "88x31": "https://s-sannidhi.github.io/DigitalPortfolio/icon.png"
+    }
+  ]
 }
