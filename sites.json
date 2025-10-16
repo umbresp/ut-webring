@@ -47,7 +47,14 @@
       "url": "s-sannidhi.vercel.app",
       "link": "https://s-sannidhi.vercel.app",
       "description": "fried",
-      "88x31": "https://s-sannidhi.github.io/DigitalPortfolio/icon.png"
+      "88x31": "https://s-sannidhi.github.io/DigitalPortfolio/button.gif"
+    },
+    {
+      "name": "tony",
+      "url": "theanthonywang.com",
+      "link": "https://theanthonywang.com",
+      "description": "tonyyyy",
+      "88x31": null
     }
   ]
 }
