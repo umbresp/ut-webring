@@ -1,11 +1,18 @@
 :root {
-  font-family: var(--wp--preset--font-family--sans-serif, "Benton Sans", "Open Sans", arial, helvetica, sans-serif);
+  font-family: var(
+    --wp--preset--font-family--sans-serif,
+    "Benton Sans",
+    "Open Sans",
+    arial,
+    helvetica,
+    sans-serif
+  );
   line-height: 1.5;
   font-weight: 400;
 
   color-scheme: normal;
-  color: #F8971F;
-  background-color: #333F48;
+  color: #f8971f;
+  background-color: #333f48;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -17,7 +24,7 @@ a {
   color: inherit;
   text-decoration: underline;
 }
-a:hover { 
+a:hover {
   color: inherit;
   filter: brightness(0.7);
 }
@@ -36,15 +43,19 @@ body {
 h1 {
   font-size: 3.5em;
   line-height: 1.1;
-  color: #BF5700;
+  color: #bf5700;
   text-align: center;
 }
 
 table {
   width: 100%;
   border-collapse: collapse;
-  background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
-  box-shadow: 0 6px 18px rgba(0,0,0,0.45);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.03),
+    rgba(255, 255, 255, 0.01)
+  );
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
   border-radius: 10px;
   overflow: hidden;
 }
@@ -52,24 +63,24 @@ table {
 thead th {
   text-align: left;
   padding: 14px 18px;
-  background: rgba(255,255,255,0.02);
+  background: rgba(255, 255, 255, 0.02);
   font-weight: 600;
-  color: #FFD600;
-  border-bottom: 1px solid rgba(255,255,255,0.04);
+  color: #ffd600;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
 }
 
 tbody td {
   padding: 12px 18px;
   vertical-align: middle;
-  border-bottom: 1px solid rgba(255,255,255,0.03);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.03);
 }
 
 tbody tr:nth-child(even) {
-  background: rgba(255,255,255,0.01);
+  background: rgba(255, 255, 255, 0.01);
 }
 
 tbody tr:hover {
-  background: rgba(255,255,255,0.03);
+  background: rgba(255, 255, 255, 0.03);
   transform: translateZ(0);
 }
 
@@ -78,7 +89,7 @@ td img {
   height: auto;
   display: block;
   border-radius: 4px;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.45);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.45);
 }
 
 thead th:nth-child(1),
@@ -113,17 +124,33 @@ tbody td:nth-child(4) {
 
 .footer {
   margin-top: 32px;
-  color: #BCC5BD;
+  color: #bcc5bd;
   text-align: center;
 }
 
 @media (max-width: 720px) {
-  h1 { font-size: 2.2em }
-  table { font-size: 0.95rem }
-  thead th { display: none; }
-  tbody td { display: block; width: 100%; }
-  tbody td::before { content: ''; display: none; }
-  tbody td:nth-child(3) { display: block; margin-bottom: 12px; }
-  tbody td:not(:nth-child(3)) { display: none; }
+  h1 {
+    font-size: 2.2em;
+  }
+  table {
+    font-size: 0.95rem;
+  }
+  thead th {
+    display: none;
+  }
+  tbody td {
+    display: block;
+    width: 100%;
+  }
+  tbody td::before {
+    content: "";
+    display: none;
+  }
+  tbody td:nth-child(3) {
+    display: block;
+    margin-bottom: 12px;
+  }
+  tbody td:not(:nth-child(3)) {
+    display: none;
+  }
 }
-
