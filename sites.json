@@ -49,5 +49,12 @@
     		"description": "fried",
 			"88x31": "https://s-sannidhi.github.io/DigitalPortfolio/button.gif"
 		}
+		{
+    		"name": "tony",
+    		"url": "theanthonywang.com",
+    		"link": "https://theanthonywang.com",
+    		"description": "tonyyyy",
+    		"88x31": null
+		}
 	]
 }
